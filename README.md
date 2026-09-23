@@ -1,4 +1,4 @@
-# Stepwise: multistep form generator
+# [Stepwise: multistep form generator](https://corianderstudios.github.io/multi-step-form-builder/)
 
 A React + Vite web app that writes a multistep form component for you. Pick how many
 steps you need, name each step and its fields, choose a framework, press **Generate code**,
